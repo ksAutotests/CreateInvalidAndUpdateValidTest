@@ -1,9 +1,9 @@
 ---
-title: autotest0800b5
-description: autotest4w1164_1/25/2020 10:57:53 PM
-tags: []
+title: autotestJ0T8Ur
+description: autotest168Z52_1/25/2020 10:57:53 PM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 795
+time: 246
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---

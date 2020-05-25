@@ -1,9 +1,9 @@
 ---
-title: autotest21S27W
-description: autotest800641_5/25/2020 4:39:54 AM
-tags: []
+title: autotest6n1302
+description: autotestS0GKBp_5/25/2020 4:39:54 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 537
+time: 75
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---

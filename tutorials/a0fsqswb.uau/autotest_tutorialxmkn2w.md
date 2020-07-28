@@ -1,9 +1,9 @@
 ---
-title: autotestEKiC1b
-description: autotestoX8865_7/28/2020 1:29:54 PM
-tags: []
+title: autotestS486f0
+description: autotestub8LAC_7/28/2020 1:29:54 PM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 430
+time: 446
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---

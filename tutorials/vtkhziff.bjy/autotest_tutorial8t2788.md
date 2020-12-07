@@ -1,9 +1,9 @@
 ---
-title: autotest2Wa13V
-description: autotest4W2Q20_12/7/2020 4:14:05 AM
-tags: []
+title: autotestIXgiF1
+description: autotestUTpa30_12/7/2020 4:14:05 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 539
+time: 49
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---

@@ -1,9 +1,9 @@
 ---
-title: autotest3ftTO1
-description: autotestNaf67m_1/18/2021 7:46:07 AM
-tags: []
+title: autotestC6dRhz
+description: autotest40n7N6_1/18/2021 7:46:07 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 249
+time: 109
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
